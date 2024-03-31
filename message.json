@@ -1,0 +1,139 @@
+[
+  {
+    "date": "ПН. 15.01.2024",
+    "lessons": [
+      {
+        "time": "1 пара",
+        "startTime": "8:30",
+        "endTime": "10:00",
+        "subject": "Ин.яз А",
+        "teacher": "Щевлёва Д.В.",
+        "room": "302"
+      },
+      {
+        "time": "2 пара",
+        "startTime": "10:10",
+        "endTime": "11:40",
+        "subject": "МРПиОСД А",
+        "teacher": "Шагеева О.Т.",
+        "room": "314"
+      }
+    ]
+  },
+  {
+    "date": "ВТ. 16.01.2024",
+    "lessons": [
+      {
+        "time": "1 пара",
+        "startTime": "8:30",
+        "endTime": "10:00",
+        "subject": "МДК.01.02 А",
+        "teacher": "Маклакова Е.Л.",
+        "room": "08"
+      },
+      {
+        "time": "2 пара",
+        "startTime": "10:10",
+        "endTime": "11:40",
+        "subject": "МДК.01.02 А",
+        "teacher": "Маклакова Е.Л.",
+        "room": "08"
+      },
+      {
+        "time": "3 пара",
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "subject": "КиПП А",
+        "teacher": "Мельник Е.В.",
+        "room": "408"
+      },
+      {
+        "time": "4 пара",
+        "startTime": "13:50",
+        "endTime": "15:20",
+        "subject": "КиПП А",
+        "teacher": "Мельник Е.В.",
+        "room": "408"
+      }
+    ]
+  },
+  {
+    "date": "СР. 17.01.2024",
+    "lessons": [
+      {
+        "time": "2 пара",
+        "startTime": "10:10",
+        "endTime": "11:40",
+        "subject": "Физ-ра А",
+        "teacher": "Потапов О.Ю.",
+        "room": "Спортзал"
+      },
+      {
+        "time": "3 пара",
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "subject": "ДвОВД А",
+        "teacher": "Золотова Е. П.",
+        "room": "408"
+      }
+    ]
+  },
+  {
+    "date": "ЧТ. 18.01.2024",
+    "lessons": [
+      {
+        "time": "3 пара",
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "subject": "МДК.01.04 А",
+        "teacher": "Маклакова Е.Л.",
+        "room": "08"
+      },
+      {
+        "time": "4 пара",
+        "startTime": "13:50",
+        "endTime": "15:20",
+        "subject": "МДК.01.04 А",
+        "teacher": "Маклакова Е.Л.",
+        "room": "08"
+      }
+    ]
+  },
+  {
+    "date": "ПТ. 19.01.2024",
+    "lessons": [
+      {
+        "time": "1 пара",
+        "startTime": "8:30",
+        "endTime": "10:00",
+        "subject": "Криминалистика",
+        "teacher": "Мельник Е.В.",
+        "room": "08"
+      },
+      {
+        "time": "2 пара",
+        "startTime": "10:10",
+        "endTime": "11:40",
+        "subject": "Криминалистика",
+        "teacher": "Мельник Е.В.",
+        "room": "08"
+      },
+      {
+        "time": "3 пара",
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "subject": "КиПП А",
+        "teacher": "Мельник Е.В.",
+        "room": "408"
+      },
+      {
+        "time": "4 пара",
+        "startTime": "13:50",
+        "endTime": "15:20",
+        "subject": "ДвОВД А",
+        "teacher": "Золотова Е. П.",
+        "room": "08"
+      }
+    ]
+  }
+]
